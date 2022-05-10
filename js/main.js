@@ -6,6 +6,7 @@
     margin:30,
     dots:false,
     nav:false,
+    smartSpeed: 2500,
     // responsiveClass:true,
     responsive:{
         0:{
